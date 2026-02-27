@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\bin\Debug\net10.0\TraductorApp.exe
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\bin\Debug\net10.0\TraductorApp.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\bin\Debug\net10.0\TraductorApp.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\bin\Debug\net10.0\TraductorApp.dll
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\bin\Debug\net10.0\TraductorApp.pdb
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.sourcelink.json
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.dll
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\refint\TraductorApp.dll
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.pdb
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\TraductorApp.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Desktop\2526---ESTRUCTURAAS DE DATOS C\Semana 11\TraductorApp\obj\Debug\net10.0\ref\TraductorApp.dll
